@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message TestObject {
+  string msg = 1;
+}
